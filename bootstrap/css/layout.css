@@ -1,0 +1,17 @@
+#logo{
+    position:absolute;
+  left:10px;
+ 
+  z-index: 1001;
+}
+#menu{
+    text-align: center;
+    border:0px solid red;
+    width:38%;
+}
+#tabela{
+    width:90%;
+}
+body{
+    background-color:#fff;
+}
